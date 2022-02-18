@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernandoglorenzo
 - 👀 I’m interested in ... projects that change the world
-- 🌱 I’m currently learning ... computer science at Harvard University
+- 🌱 I’m currently learning ... computer science, blockchain/cryptocurrency, analytics, and management consulting at Harvard University
 - 💞️ I’m looking to collaborate on ... timeless projects, relationships and opportunities
 - 📫 How to reach me ... fernandoglorenzo@gmail.com
 
